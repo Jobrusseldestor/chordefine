@@ -41,6 +41,6 @@ List<Category> categoryList = [
     name: 'Tuner',
     noOfCourses: 25,
     thumbnail: 'assets/pics/tuner.png',
-    destinationScreen: const CourseScreen4(),
+    destinationScreen: const TunerScreen(),
   ),
 ];
