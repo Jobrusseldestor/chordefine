@@ -29,7 +29,7 @@ List<Category> categoryList = [
     name: 'Practice',
     noOfCourses: 20,
     thumbnail: 'assets/pics/practice.png',
-    destinationScreen: const CourseScreen2(),
+    destinationScreen: const NoteChordScreen(),
   ),
   Category(
     name: 'Explore',
