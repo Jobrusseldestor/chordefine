@@ -36,20 +36,20 @@ class _EarTrainerScreenState extends State<EarTrainerScreen> {
 
   // List of labels for each box
   final List<String> labels = [
-    'A Chord',
-    'A Minor Chord',
-    'B Chord',
-    'B Minor Chord',
-    'C Chord',
-    'C Minor Chord',
-    'D Chord',
-    'D Minor Chord',
-    'E Chord',
-    'E Minor Chord',
-    'F Chord',
-    'F Minor Chord',
-    'G Chord',
-    'G Minor Chord',
+    'A Major',
+    'A Minor',
+    'B Major',
+    'B Minor',
+    'C Major',
+    'C Minor',
+    'D Major',
+    'D Minor',
+    'E Major',
+    'E Minor',
+    'F Major',
+    'F Minor',
+    'G Major',
+    'G Minor',
   ];
 
   @override

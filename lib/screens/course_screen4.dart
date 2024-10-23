@@ -8,8 +8,8 @@ import 'package:wakelock/wakelock.dart';
 import 'package:flutter/services.dart';
 
 // Colors
-const midGreyColor = Color.fromARGB(255, 40, 40, 40);
-const blackGreyColor = Color.fromARGB(255, 20, 20, 20);
+const midGreyColor = Color.fromARGB(255, 235, 231, 231);
+const blackGreyColor = Color.fromARGB(255, 228, 221, 221);
 
 // Text Styles
 const styleGreenSmall = TextStyle(color: Colors.green, fontSize: 13);
